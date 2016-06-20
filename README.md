@@ -21,3 +21,5 @@ and press enter
 this will create the laravel project, kick off composer and start MYSQL. once it has finished you will have a running Laravel instance. Happy coding
 
 
+this script was created with the excellent guide located here https://community.c9.io/t/getting-started-with-laravel/1608
+
